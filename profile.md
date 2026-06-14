@@ -2,6 +2,6 @@ Ekin Özer
 
 Creating a new branch
 
-Making a pull request
+What a pull request is 
 
 Writing understandable and self explanatory commit messages.
